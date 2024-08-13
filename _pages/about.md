@@ -66,9 +66,11 @@ Utilizar el lobby del edificio 2 (edificio de ingenierías) como un espacio inte
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/lobby1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <figcaption class="figure-caption text-center">Lobby edificio 2</figcaption>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/lobby3.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <figcaption class="figure-caption text-center">Lobby edificio 2</figcaption>
     </div>
 </div>
 
@@ -134,12 +136,15 @@ Alpha Grader es un proyecto de libre uso por el Dr. Rubén Stranders. El proyect
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/alpha1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <figcaption class="figure-caption text-center">Laboratorios</figcaption>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/alpha2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <figcaption class="figure-caption text-center">Pruebas</figcaption>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/alpha3.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <figcaption class="figure-caption text-center">Paneles de reportes</figcaption>
     </div>
 </div>
 
@@ -185,12 +190,15 @@ Diseño e impresión 3D de material didáctico enfocado en temas de estructuras 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/mostla1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <figcaption class="figure-caption text-center">Lista enlazada</figcaption>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/mostla2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <figcaption class="figure-caption text-center">Lista enlazada</figcaption>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/mostla3.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <figcaption class="figure-caption text-center">Pilas</figcaption>
     </div>
 </div>
 
@@ -221,32 +229,39 @@ Normalmente, nos reunimos a fin de semestre para platicar sobre lo ocurrido y pl
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/2017.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <figcaption class="figure-caption text-center">2017 Juegos de Rol</figcaption>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/2018.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <figcaption class="figure-caption text-center">2018 Toki Sushi</figcaption>
     </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/2019.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <figcaption class="figure-caption text-center">2019 Juegos de Mesa</figcaption>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/2020.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <figcaption class="figure-caption text-center">2020 Sushi en Pandemia</figcaption>
     </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/2022.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <figcaption class="figure-caption text-center">2022 Alitas y Hamburguesas</figcaption>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/2022dic.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <figcaption class="figure-caption text-center">2022 Cafe Tim Hortons</figcaption>
     </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/2023dic.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <figcaption class="figure-caption text-center">2023 Learning Commons</figcaption>
     </div>
 </div>
