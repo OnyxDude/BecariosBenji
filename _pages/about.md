@@ -1,13 +1,14 @@
 ---
 layout: about
-title: Becarios
+title: Acerca De
 permalink: /
-subtitle:
 
 <!---
 social: true # includes social icons at the bottom of the page
 --->
 ---
+
+# Proyectos de Servicio Becario 
 
 Aquí encontrarás todos los proyectos de servicio becario realizados con el Dr. Benjamín Váldes. Si te gustaría integrarte a algún proyecto, por favor envía un correo a [bvaldesa@tec.mx](mailto:bvaldesa@tec.mx) un semestre antes para poder platicar y ver en qué proyecto podrías participar.
 
