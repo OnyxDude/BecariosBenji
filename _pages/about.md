@@ -2,11 +2,7 @@
 layout: about
 title: Acerca De
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
-<!---
-social: true # includes social icons at the bottom of the page
---->
 ---
 
 # Proyectos de Servicio Becario 
