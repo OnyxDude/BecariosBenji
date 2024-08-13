@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: www.leocervantes.me/BecariosBenji/sitemap.xml
+Sitemap: http://www.leocervantes.me/BecariosBenji/sitemap.xml
