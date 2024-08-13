@@ -65,8 +65,8 @@ Utilizar el lobby del edificio 2 (edificio de ingenierías) como un espacio inte
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/lobby1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <figcaption class="figure-caption text-center">Lobby edificio 2</figcaption>
+        {% include figure.liquid path="assets/img/lobby1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/lobby3.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
