@@ -5,8 +5,6 @@ permalink: /
 
 ---
 
-# Proyectos de Servicio Becario 
-
 Aquí encontrarás todos los proyectos de servicio becario realizados con el Dr. Benjamín Váldes. Si te gustaría integrarte a algún proyecto, por favor envía un correo a [bvaldesa@tec.mx](mailto:bvaldesa@tec.mx) un semestre antes para poder platicar y ver en qué proyecto podrías participar.
 
 ## Entrenamiento para Entrevistas Técnicas o Tardes de Coding
@@ -17,19 +15,19 @@ Solucionar problemas de programación competitiva, grabar videos con las solucio
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Tech3.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Tech3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Tech4.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Tech4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Tech1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Tech1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Tech2.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Tech2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -47,9 +45,9 @@ Solucionar problemas de programación competitiva, grabar videos con las solucio
 
 Generar escenarios y simulaciones útiles para la enseñanza de conceptos de urbanismo, ingeniería civil, arquitectura y áreas afines, usando un videojuego comercial ([City Skylines](https://store.steampowered.com/app/255710/Cities_Skylines/)). Para ello, se utilizan herramientas de edición de escenarios del juego y se desarrollan mods que puedan ser distribuidos por Steam.
 
-<!---
+
 [Wiki introducción al proyecto](https://nine-vinca-8ca.notion.site/WIKI-COMO-JUGAR-CITY-SKYLINES-Y-SOBREVIVIR-EN-EL-INTENTO-d833a3f2544745b0b6e967a779eeff5a)
---->
+
 
 El repositorio del proyecto se encuentra en [Simulador para Aprendizaje en Urbanismo](https://github.com/salgue441/City-Skylines-Mod).
 
@@ -66,10 +64,10 @@ Utilizar el lobby del edificio 2 (edificio de ingenierías) como un espacio inte
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/lobby1.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/lobby1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/lobby3.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/lobby3.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -94,25 +92,25 @@ Generación de contenidos para ser utilizados en dinámicas de gamificación com
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/games1.JPG" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/games1.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/games2.JPG" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/games2.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/games3.JPG" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/games3.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/games4.JPG" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/games4.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/games5.JPG" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/games5.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/games6.JPG" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/games6.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -134,13 +132,13 @@ Alpha Grader es un proyecto de libre uso por el Dr. Rubén Stranders. El proyect
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/alpha1.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/alpha1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/alpha2.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/alpha2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/alpha3.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/alpha3.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -185,13 +183,13 @@ Diseño e impresión 3D de material didáctico enfocado en temas de estructuras 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/mostla1.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/mostla1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/mostla2.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/mostla2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/mostla3.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/mostla3.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -221,33 +219,33 @@ Normalmente, nos reunimos a fin de semestre para platicar sobre lo ocurrido y pl
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/2017.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/2017.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/2018.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/2019.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/2020.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/2018.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/2022.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/2019.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/2022dic.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/2020.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/2023dic.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/2022.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/2022dic.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/2023dic.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
