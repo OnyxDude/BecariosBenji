@@ -3,13 +3,6 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Materials for courses you taught. Replace this text with your description.
-
-profile:
-  align: right
-  image: Tech1.jpg
-  image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
   
 nav: true
 nav_order: 6
