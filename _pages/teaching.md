@@ -1,11 +1,11 @@
 ---
-layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-  
-nav: true
-nav_order: 6
+layout: post
+title: a post with tabs
+date: 2024-05-01 00:32:13
+description: this is what included tabs in a post could look like
+tags: formatting code
+categories: sample-posts
+tabs: true
 ---
 
 
