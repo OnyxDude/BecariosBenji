@@ -26,9 +26,9 @@ solucionar problemas de programación competitiva, grabar videos con las solucio
 
 [canal de youtube tardes de coding](https://www.youtube.com/channel/UCaDLn1cv__Xz93lhLpLCKWw)
 
-![Tech Interviews 3](images/Tech3.jpg) |![Tech Interviews 4](images/Tech4.jpg)
+![Tech Interviews 3](https://github.com/OnyxDude/BecariosBenji/blob/master/assets/img/Tech3.jpg) |![Tech Interviews 4](https://github.com/OnyxDude/BecariosBenji/blob/master/assets/img/Tech4.jpg)
 :-------------------------:|:-------------------------:
-![Tech Interviews 1](_pages/images/Tech1.jpg) | ![Tech Interviews 2](_pages/images/Tech2.jpg)
+![Tech Interviews 1](https://github.com/OnyxDude/BecariosBenji/blob/master/assets/img/Tech1.jpg) | ![Tech Interviews 2]([_pages/images/](https://github.com/OnyxDude/BecariosBenji/blob/master/assets/img/)Tech2.jpg)
 
 ### Becarios involucrados:
 - Guillermo Sanchez Barrón (2018 - 2019) (Dev.)
