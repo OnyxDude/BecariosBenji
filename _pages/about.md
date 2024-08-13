@@ -1,16 +1,13 @@
 ---
 layout: about
-title: about
+title: Becarios
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
-
-
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+<!---
 social: true # includes social icons at the bottom of the page
+--->
 ---
-
 
 Aquí encontrarás todos los proyectos de servicio becario realizados con el Dr. Benjamín Váldes. Si te gustaría integrarte a algún proyecto, por favor envía un correo a [bvaldesa@tec.mx](mailto:bvaldesa@tec.mx) un semestre antes para poder platicar y ver en qué proyecto podrías participar.
 
@@ -256,7 +253,3 @@ Normalmente, nos reunimos a fin de semestre para platicar sobre lo ocurrido y pl
         {% include figure.liquid path="assets/img/2023dic.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-## Calificar Materias
-
-Revisar avances de proyectos durante el semestre para brindar retroalimentación oportuna en materias del core de programación: TC1028, TC1033, TC1030, TC1031 y materias de programación de planes previos.
